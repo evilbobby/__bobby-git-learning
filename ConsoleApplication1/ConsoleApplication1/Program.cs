@@ -17,6 +17,8 @@ namespace ConsoleApplication1
         private void FeatureA()
         {
             // adding to feature a
+
+            // adding rev 1
         }
 
         private void FeatureA_SharedComponent()
