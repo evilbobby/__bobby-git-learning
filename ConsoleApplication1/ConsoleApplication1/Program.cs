@@ -11,5 +11,12 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
         }
+
+
+
+        private void FeatureB()
+        {
+            //this is feature b
+        }
     }
 }
