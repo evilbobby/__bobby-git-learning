@@ -17,6 +17,7 @@ namespace ConsoleApplication1
         private void FeatureB()
         {
             //this is feature b
+            // another revision on feature b
         }
     }
 }
