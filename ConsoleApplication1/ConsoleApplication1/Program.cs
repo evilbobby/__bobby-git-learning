@@ -13,5 +13,10 @@ namespace ConsoleApplication1
 
             //adding stuff to feature a
         }
+
+        private void FeatureA()
+        {
+            // adding to feature a
+        }
     }
 }
