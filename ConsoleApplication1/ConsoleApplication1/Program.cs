@@ -10,6 +10,20 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+
+            //adding stuff to feature a
+        }
+
+        private void FeatureA()
+        {
+            // adding to feature a
+
+            // adding rev 1
+        }
+
+        private void FeatureA_SharedComponent()
+        {
+            // this is a shared component from Feature A
         }
     }
 }
