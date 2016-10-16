@@ -25,5 +25,7 @@ namespace ConsoleApplication1
         {
             // this is a shared component from Feature A
         }
+
+        // enhancement to feature a after squash
     }
 }
