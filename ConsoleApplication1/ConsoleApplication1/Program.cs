@@ -19,5 +19,10 @@ namespace ConsoleApplication1
             //this is feature b
             // another revision on feature b
         }
+
+        private void FeatureB_SharedComponent()
+        {
+            // adding shared component for feature b
+        }
     }
 }
